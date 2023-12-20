@@ -4,7 +4,7 @@ Fitur :
 - List kategori makanan
 - List makanan berdasarkan kategori
 - Detail makanan
-        - resep
-        - instruksi pembuatan
-        - link video tutorial pembuatan
-  - Favorit
+        . resep
+        . instruksi pembuatan
+        . link video tutorial pembuatan
+- Favorit
